@@ -1,0 +1,1 @@
+# Part-2If you make any changes in a document, make sure you mark it in the Revisions log located at the bottom of the document, with the exception of the SRS where it is at the bottom of page 2 or 3 I think. This goes for any current or past documents.
